@@ -1,0 +1,2087 @@
+[
+  {
+    "code": "AFN",
+    "name": "Afghan afghani",
+    "symbol": "؋",
+    "countries": [
+      {
+        "code": "af",
+        "name": "Afghanistan"
+      }
+    ]
+  },
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "countries": [
+      {
+        "code": "ax",
+        "name": "Aland Islands"
+      },
+      {
+        "code": "ad",
+        "name": "Andorra"
+      },
+      {
+        "code": "at",
+        "name": "Austria"
+      },
+      {
+        "code": "be",
+        "name": "Belgium"
+      },
+      {
+        "code": "hr",
+        "name": "Croatia"
+      },
+      {
+        "code": "cy",
+        "name": "Cyprus"
+      },
+      {
+        "code": "ee",
+        "name": "Estonia"
+      },
+      {
+        "code": "fi",
+        "name": "Finland"
+      },
+      {
+        "code": "fr",
+        "name": "France"
+      },
+      {
+        "code": "gf",
+        "name": "French Guiana"
+      },
+      {
+        "code": "tf",
+        "name": "French Southern Territories"
+      },
+      {
+        "code": "de",
+        "name": "Germany"
+      },
+      {
+        "code": "gr",
+        "name": "Greece"
+      },
+      {
+        "code": "gp",
+        "name": "Guadeloupe"
+      },
+      {
+        "code": "ie",
+        "name": "Ireland"
+      },
+      {
+        "code": "it",
+        "name": "Italy"
+      },
+      {
+        "code": "xk",
+        "name": "Kosovo"
+      },
+      {
+        "code": "lv",
+        "name": "Latvia"
+      },
+      {
+        "code": "lt",
+        "name": "Lithuania"
+      },
+      {
+        "code": "lu",
+        "name": "Luxembourg"
+      },
+      {
+        "code": "mt",
+        "name": "Malta"
+      },
+      {
+        "code": "mq",
+        "name": "Martinique"
+      },
+      {
+        "code": "yt",
+        "name": "Mayotte"
+      },
+      {
+        "code": "mc",
+        "name": "Monaco"
+      },
+      {
+        "code": "me",
+        "name": "Montenegro"
+      },
+      {
+        "code": "nl",
+        "name": "Netherlands"
+      },
+      {
+        "code": "pt",
+        "name": "Portugal"
+      },
+      {
+        "code": "re",
+        "name": "Reunion"
+      },
+      {
+        "code": "pm",
+        "name": "Saint Pierre and Miquelon"
+      },
+      {
+        "code": "bl",
+        "name": "Saint-Barthelemy"
+      },
+      {
+        "code": "mf",
+        "name": "Saint-Martin (French part)"
+      },
+      {
+        "code": "sm",
+        "name": "San Marino"
+      },
+      {
+        "code": "sk",
+        "name": "Slovakia"
+      },
+      {
+        "code": "si",
+        "name": "Slovenia"
+      },
+      {
+        "code": "es",
+        "name": "Spain"
+      },
+      {
+        "code": "va",
+        "name": "Vatican City State (Holy See)"
+      }
+    ]
+  },
+  {
+    "code": "ALL",
+    "name": "Albanian lek",
+    "symbol": "Lek",
+    "countries": [
+      {
+        "code": "al",
+        "name": "Albania"
+      }
+    ]
+  },
+  {
+    "code": "DZD",
+    "name": "Algerian dinar",
+    "symbol": "دج",
+    "countries": [
+      {
+        "code": "dz",
+        "name": "Algeria"
+      }
+    ]
+  },
+  {
+    "code": "USD",
+    "name": "United States dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "as",
+        "name": "American Samoa"
+      },
+      {
+        "code": "bq",
+        "name": "Bonaire, Sint Eustatius and Saba"
+      },
+      {
+        "code": "io",
+        "name": "British Indian Ocean Territory"
+      },
+      {
+        "code": "ec",
+        "name": "Ecuador"
+      },
+      {
+        "code": "sv",
+        "name": "El Salvador"
+      },
+      {
+        "code": "gu",
+        "name": "Guam"
+      },
+      {
+        "code": "mh",
+        "name": "Marshall Islands"
+      },
+      {
+        "code": "fm",
+        "name": "Micronesia"
+      },
+      {
+        "code": "mp",
+        "name": "Northern Mariana Islands"
+      },
+      {
+        "code": "pw",
+        "name": "Palau"
+      },
+      {
+        "code": "pr",
+        "name": "Puerto Rico"
+      },
+      {
+        "code": "tl",
+        "name": "Timor-Leste"
+      },
+      {
+        "code": "tc",
+        "name": "Turks and Caicos Islands"
+      },
+      {
+        "code": "us",
+        "name": "United States"
+      },
+      {
+        "code": "um",
+        "name": "United States Minor Outlying Islands"
+      },
+      {
+        "code": "vg",
+        "name": "Virgin Islands (British)"
+      },
+      {
+        "code": "vi",
+        "name": "Virgin Islands (US)"
+      }
+    ]
+  },
+  {
+    "code": "AOA",
+    "name": "Angolan kwanza",
+    "symbol": "Kz",
+    "countries": [
+      {
+        "code": "ao",
+        "name": "Angola"
+      }
+    ]
+  },
+  {
+    "code": "XCD",
+    "name": "Eastern Caribbean dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "ai",
+        "name": "Anguilla"
+      },
+      {
+        "code": "ag",
+        "name": "Antigua and Barbuda"
+      },
+      {
+        "code": "dm",
+        "name": "Dominica"
+      },
+      {
+        "code": "gd",
+        "name": "Grenada"
+      },
+      {
+        "code": "ms",
+        "name": "Montserrat"
+      },
+      {
+        "code": "kn",
+        "name": "Saint Kitts and Nevis"
+      },
+      {
+        "code": "lc",
+        "name": "Saint Lucia"
+      },
+      {
+        "code": "vc",
+        "name": "Saint Vincent and the Grenadines"
+      }
+    ]
+  },
+  {
+    "code": "AAD",
+    "name": "Antarctican dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "aq",
+        "name": "Antarctica"
+      }
+    ]
+  },
+  {
+    "code": "ARS",
+    "name": "Argentine peso",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "ar",
+        "name": "Argentina"
+      }
+    ]
+  },
+  {
+    "code": "AMD",
+    "name": "Armenian dram",
+    "symbol": "֏",
+    "countries": [
+      {
+        "code": "am",
+        "name": "Armenia"
+      }
+    ]
+  },
+  {
+    "code": "AWG",
+    "name": "Aruban florin",
+    "symbol": "ƒ",
+    "countries": [
+      {
+        "code": "aw",
+        "name": "Aruba"
+      }
+    ]
+  },
+  {
+    "code": "AUD",
+    "name": "Australian dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "au",
+        "name": "Australia"
+      },
+      {
+        "code": "cx",
+        "name": "Christmas Island"
+      },
+      {
+        "code": "cc",
+        "name": "Cocos (Keeling) Islands"
+      },
+      {
+        "code": "hm",
+        "name": "Heard Island and McDonald Islands"
+      },
+      {
+        "code": "ki",
+        "name": "Kiribati"
+      },
+      {
+        "code": "nr",
+        "name": "Nauru"
+      },
+      {
+        "code": "nf",
+        "name": "Norfolk Island"
+      },
+      {
+        "code": "tv",
+        "name": "Tuvalu"
+      }
+    ]
+  },
+  {
+    "code": "AZN",
+    "name": "Azerbaijani manat",
+    "symbol": "m",
+    "countries": [
+      {
+        "code": "az",
+        "name": "Azerbaijan"
+      }
+    ]
+  },
+  {
+    "code": "BHD",
+    "name": "Bahraini dinar",
+    "symbol": ".د.ب",
+    "countries": [
+      {
+        "code": "bh",
+        "name": "Bahrain"
+      }
+    ]
+  },
+  {
+    "code": "BDT",
+    "name": "Bangladeshi taka",
+    "symbol": "৳",
+    "countries": [
+      {
+        "code": "bd",
+        "name": "Bangladesh"
+      }
+    ]
+  },
+  {
+    "code": "BBD",
+    "name": "Barbadian dollar",
+    "symbol": "Bds$",
+    "countries": [
+      {
+        "code": "bb",
+        "name": "Barbados"
+      }
+    ]
+  },
+  {
+    "code": "BYN",
+    "name": "Belarusian ruble",
+    "symbol": "Br",
+    "countries": [
+      {
+        "code": "by",
+        "name": "Belarus"
+      }
+    ]
+  },
+  {
+    "code": "BZD",
+    "name": "Belize dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "bz",
+        "name": "Belize"
+      }
+    ]
+  },
+  {
+    "code": "XOF",
+    "name": "West African CFA franc",
+    "symbol": "CFA",
+    "countries": [
+      {
+        "code": "bj",
+        "name": "Benin"
+      },
+      {
+        "code": "bf",
+        "name": "Burkina Faso"
+      },
+      {
+        "code": "ci",
+        "name": "Cote D'Ivoire (Ivory Coast)"
+      },
+      {
+        "code": "gw",
+        "name": "Guinea-Bissau"
+      },
+      {
+        "code": "ml",
+        "name": "Mali"
+      },
+      {
+        "code": "ne",
+        "name": "Niger"
+      },
+      {
+        "code": "sn",
+        "name": "Senegal"
+      },
+      {
+        "code": "tg",
+        "name": "Togo"
+      }
+    ]
+  },
+  {
+    "code": "BMD",
+    "name": "Bermudian dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "bm",
+        "name": "Bermuda"
+      }
+    ]
+  },
+  {
+    "code": "BTN",
+    "name": "Bhutanese ngultrum",
+    "symbol": "Nu.",
+    "countries": [
+      {
+        "code": "bt",
+        "name": "Bhutan"
+      }
+    ]
+  },
+  {
+    "code": "BOB",
+    "name": "Bolivian boliviano",
+    "symbol": "Bs.",
+    "countries": [
+      {
+        "code": "bo",
+        "name": "Bolivia"
+      }
+    ]
+  },
+  {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina convertible mark",
+    "symbol": "KM",
+    "countries": [
+      {
+        "code": "ba",
+        "name": "Bosnia and Herzegovina"
+      }
+    ]
+  },
+  {
+    "code": "BWP",
+    "name": "Botswana pula",
+    "symbol": "P",
+    "countries": [
+      {
+        "code": "bw",
+        "name": "Botswana"
+      }
+    ]
+  },
+  {
+    "code": "NOK",
+    "name": "Norwegian krone",
+    "symbol": "ko",
+    "countries": [
+      {
+        "code": "bv",
+        "name": "Bouvet Island"
+      },
+      {
+        "code": "no",
+        "name": "Norway"
+      },
+      {
+        "code": "sj",
+        "name": "Svalbard and Jan Mayen Islands"
+      }
+    ]
+  },
+  {
+    "code": "BRL",
+    "name": "Brazilian real",
+    "symbol": "R$",
+    "countries": [
+      {
+        "code": "br",
+        "name": "Brazil"
+      }
+    ]
+  },
+  {
+    "code": "BND",
+    "name": "Brunei dollar",
+    "symbol": "B$",
+    "countries": [
+      {
+        "code": "bn",
+        "name": "Brunei"
+      }
+    ]
+  },
+  {
+    "code": "BGN",
+    "name": "Bulgarian lev",
+    "symbol": "Лв.",
+    "countries": [
+      {
+        "code": "bg",
+        "name": "Bulgaria"
+      }
+    ]
+  },
+  {
+    "code": "BIF",
+    "name": "Burundian franc",
+    "symbol": "FBu",
+    "countries": [
+      {
+        "code": "bi",
+        "name": "Burundi"
+      }
+    ]
+  },
+  {
+    "code": "KHR",
+    "name": "Cambodian riel",
+    "symbol": "KHR",
+    "countries": [
+      {
+        "code": "kh",
+        "name": "Cambodia"
+      }
+    ]
+  },
+  {
+    "code": "XAF",
+    "name": "Central African CFA franc",
+    "symbol": "FCFA",
+    "countries": [
+      {
+        "code": "cm",
+        "name": "Cameroon"
+      },
+      {
+        "code": "cf",
+        "name": "Central African Republic"
+      },
+      {
+        "code": "td",
+        "name": "Chad"
+      },
+      {
+        "code": "cg",
+        "name": "Congo"
+      },
+      {
+        "code": "gq",
+        "name": "Equatorial Guinea"
+      },
+      {
+        "code": "ga",
+        "name": "Gabon"
+      }
+    ]
+  },
+  {
+    "code": "CAD",
+    "name": "Canadian dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "ca",
+        "name": "Canada"
+      }
+    ]
+  },
+  {
+    "code": "CVE",
+    "name": "Cape Verdean escudo",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "cv",
+        "name": "Cape Verde"
+      }
+    ]
+  },
+  {
+    "code": "KYD",
+    "name": "Cayman Islands dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "ky",
+        "name": "Cayman Islands"
+      }
+    ]
+  },
+  {
+    "code": "CLP",
+    "name": "Chilean peso",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "cl",
+        "name": "Chile"
+      }
+    ]
+  },
+  {
+    "code": "CNY",
+    "name": "Chinese yuan",
+    "symbol": "¥",
+    "countries": [
+      {
+        "code": "cn",
+        "name": "China"
+      }
+    ]
+  },
+  {
+    "code": "COP",
+    "name": "Colombian peso",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "co",
+        "name": "Colombia"
+      }
+    ]
+  },
+  {
+    "code": "KMF",
+    "name": "Comorian franc",
+    "symbol": "CF",
+    "countries": [
+      {
+        "code": "km",
+        "name": "Comoros"
+      }
+    ]
+  },
+  {
+    "code": "NZD",
+    "name": "New Zealand dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "ck",
+        "name": "Cook Islands"
+      },
+      {
+        "code": "nz",
+        "name": "New Zealand"
+      },
+      {
+        "code": "nu",
+        "name": "Niue"
+      },
+      {
+        "code": "pn",
+        "name": "Pitcairn Island"
+      },
+      {
+        "code": "tk",
+        "name": "Tokelau"
+      }
+    ]
+  },
+  {
+    "code": "CRC",
+    "name": "Costa Rican colón",
+    "symbol": "₡",
+    "countries": [
+      {
+        "code": "cr",
+        "name": "Costa Rica"
+      }
+    ]
+  },
+  {
+    "code": "CUP",
+    "name": "Cuban peso",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "cu",
+        "name": "Cuba"
+      }
+    ]
+  },
+  {
+    "code": "ANG",
+    "name": "Netherlands Antillean guilder",
+    "symbol": "ƒ",
+    "countries": [
+      {
+        "code": "cw",
+        "name": "Curaçao"
+      },
+      {
+        "code": "sx",
+        "name": "Sint Maarten (Dutch part)"
+      }
+    ]
+  },
+  {
+    "code": "CZK",
+    "name": "Czech koruna",
+    "symbol": "Kč",
+    "countries": [
+      {
+        "code": "cz",
+        "name": "Czech Republic"
+      }
+    ]
+  },
+  {
+    "code": "CDF",
+    "name": "Congolese Franc",
+    "symbol": "FC",
+    "countries": [
+      {
+        "code": "cd",
+        "name": "Democratic Republic of the Congo"
+      }
+    ]
+  },
+  {
+    "code": "DKK",
+    "name": "Danish krone",
+    "symbol": "Kr.",
+    "countries": [
+      {
+        "code": "dk",
+        "name": "Denmark"
+      },
+      {
+        "code": "fo",
+        "name": "Faroe Islands"
+      },
+      {
+        "code": "gl",
+        "name": "Greenland"
+      }
+    ]
+  },
+  {
+    "code": "DJF",
+    "name": "Djiboutian franc",
+    "symbol": "Fdj",
+    "countries": [
+      {
+        "code": "dj",
+        "name": "Djibouti"
+      }
+    ]
+  },
+  {
+    "code": "DOP",
+    "name": "Dominican peso",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "do",
+        "name": "Dominican Republic"
+      }
+    ]
+  },
+  {
+    "code": "EGP",
+    "name": "Egyptian pound",
+    "symbol": "ج.م",
+    "countries": [
+      {
+        "code": "eg",
+        "name": "Egypt"
+      }
+    ]
+  },
+  {
+    "code": "ERN",
+    "name": "Eritrean nakfa",
+    "symbol": "Nfk",
+    "countries": [
+      {
+        "code": "er",
+        "name": "Eritrea"
+      }
+    ]
+  },
+  {
+    "code": "SZL",
+    "name": "Lilangeni",
+    "symbol": "E",
+    "countries": [
+      {
+        "code": "sz",
+        "name": "Eswatini"
+      }
+    ]
+  },
+  {
+    "code": "ETB",
+    "name": "Ethiopian birr",
+    "symbol": "Nkf",
+    "countries": [
+      {
+        "code": "et",
+        "name": "Ethiopia"
+      }
+    ]
+  },
+  {
+    "code": "FKP",
+    "name": "Falkland Islands pound",
+    "symbol": "£",
+    "countries": [
+      {
+        "code": "fk",
+        "name": "Falkland Islands"
+      }
+    ]
+  },
+  {
+    "code": "FJD",
+    "name": "Fijian dollar",
+    "symbol": "FJ$",
+    "countries": [
+      {
+        "code": "fj",
+        "name": "Fiji Islands"
+      }
+    ]
+  },
+  {
+    "code": "XPF",
+    "name": "CFP franc",
+    "symbol": "₣",
+    "countries": [
+      {
+        "code": "pf",
+        "name": "French Polynesia"
+      },
+      {
+        "code": "nc",
+        "name": "New Caledonia"
+      },
+      {
+        "code": "wf",
+        "name": "Wallis and Futuna Islands"
+      }
+    ]
+  },
+  {
+    "code": "GEL",
+    "name": "Georgian lari",
+    "symbol": "ლ",
+    "countries": [
+      {
+        "code": "ge",
+        "name": "Georgia"
+      }
+    ]
+  },
+  {
+    "code": "GHS",
+    "name": "Ghanaian cedi",
+    "symbol": "GH₵",
+    "countries": [
+      {
+        "code": "gh",
+        "name": "Ghana"
+      }
+    ]
+  },
+  {
+    "code": "GIP",
+    "name": "Gibraltar pound",
+    "symbol": "£",
+    "countries": [
+      {
+        "code": "gi",
+        "name": "Gibraltar"
+      }
+    ]
+  },
+  {
+    "code": "GTQ",
+    "name": "Guatemalan quetzal",
+    "symbol": "Q",
+    "countries": [
+      {
+        "code": "gt",
+        "name": "Guatemala"
+      }
+    ]
+  },
+  {
+    "code": "GBP",
+    "name": "British pound",
+    "symbol": "£",
+    "countries": [
+      {
+        "code": "gg",
+        "name": "Guernsey"
+      },
+      {
+        "code": "je",
+        "name": "Jersey"
+      },
+      {
+        "code": "im",
+        "name": "Man (Isle of)"
+      },
+      {
+        "code": "gs",
+        "name": "South Georgia"
+      },
+      {
+        "code": "gb",
+        "name": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "GNF",
+    "name": "Guinean franc",
+    "symbol": "FG",
+    "countries": [
+      {
+        "code": "gn",
+        "name": "Guinea"
+      }
+    ]
+  },
+  {
+    "code": "GYD",
+    "name": "Guyanese dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "gy",
+        "name": "Guyana"
+      }
+    ]
+  },
+  {
+    "code": "HTG",
+    "name": "Haitian gourde",
+    "symbol": "G",
+    "countries": [
+      {
+        "code": "ht",
+        "name": "Haiti"
+      }
+    ]
+  },
+  {
+    "code": "HNL",
+    "name": "Honduran lempira",
+    "symbol": "L",
+    "countries": [
+      {
+        "code": "hn",
+        "name": "Honduras"
+      }
+    ]
+  },
+  {
+    "code": "HKD",
+    "name": "Hong Kong dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "hk",
+        "name": "Hong Kong S.A.R."
+      }
+    ]
+  },
+  {
+    "code": "HUF",
+    "name": "Hungarian forint",
+    "symbol": "Ft",
+    "countries": [
+      {
+        "code": "hu",
+        "name": "Hungary"
+      }
+    ]
+  },
+  {
+    "code": "ISK",
+    "name": "Icelandic króna",
+    "symbol": "ko",
+    "countries": [
+      {
+        "code": "is",
+        "name": "Iceland"
+      }
+    ]
+  },
+  {
+    "code": "INR",
+    "name": "Indian rupee",
+    "symbol": "₹",
+    "countries": [
+      {
+        "code": "in",
+        "name": "India"
+      }
+    ]
+  },
+  {
+    "code": "IDR",
+    "name": "Indonesian rupiah",
+    "symbol": "Rp",
+    "countries": [
+      {
+        "code": "id",
+        "name": "Indonesia"
+      }
+    ]
+  },
+  {
+    "code": "IRR",
+    "name": "Iranian rial",
+    "symbol": "﷼",
+    "countries": [
+      {
+        "code": "ir",
+        "name": "Iran"
+      }
+    ]
+  },
+  {
+    "code": "IQD",
+    "name": "Iraqi dinar",
+    "symbol": "د.ع",
+    "countries": [
+      {
+        "code": "iq",
+        "name": "Iraq"
+      }
+    ]
+  },
+  {
+    "code": "ILS",
+    "name": "Israeli new shekel",
+    "symbol": "₪",
+    "countries": [
+      {
+        "code": "il",
+        "name": "Israel"
+      },
+      {
+        "code": "ps",
+        "name": "Palestinian Territory Occupied"
+      }
+    ]
+  },
+  {
+    "code": "JMD",
+    "name": "Jamaican dollar",
+    "symbol": "J$",
+    "countries": [
+      {
+        "code": "jm",
+        "name": "Jamaica"
+      }
+    ]
+  },
+  {
+    "code": "JPY",
+    "name": "Japanese yen",
+    "symbol": "¥",
+    "countries": [
+      {
+        "code": "jp",
+        "name": "Japan"
+      }
+    ]
+  },
+  {
+    "code": "JOD",
+    "name": "Jordanian dinar",
+    "symbol": "ا.د",
+    "countries": [
+      {
+        "code": "jo",
+        "name": "Jordan"
+      }
+    ]
+  },
+  {
+    "code": "KZT",
+    "name": "Kazakhstani tenge",
+    "symbol": "лв",
+    "countries": [
+      {
+        "code": "kz",
+        "name": "Kazakhstan"
+      }
+    ]
+  },
+  {
+    "code": "KES",
+    "name": "Kenyan shilling",
+    "symbol": "KSh",
+    "countries": [
+      {
+        "code": "ke",
+        "name": "Kenya"
+      }
+    ]
+  },
+  {
+    "code": "KWD",
+    "name": "Kuwaiti dinar",
+    "symbol": "ك.د",
+    "countries": [
+      {
+        "code": "kw",
+        "name": "Kuwait"
+      }
+    ]
+  },
+  {
+    "code": "KGS",
+    "name": "Kyrgyzstani som",
+    "symbol": "лв",
+    "countries": [
+      {
+        "code": "kg",
+        "name": "Kyrgyzstan"
+      }
+    ]
+  },
+  {
+    "code": "LAK",
+    "name": "Lao kip",
+    "symbol": "₭",
+    "countries": [
+      {
+        "code": "la",
+        "name": "Laos"
+      }
+    ]
+  },
+  {
+    "code": "LBP",
+    "name": "Lebanese pound",
+    "symbol": "£",
+    "countries": [
+      {
+        "code": "lb",
+        "name": "Lebanon"
+      }
+    ]
+  },
+  {
+    "code": "LSL",
+    "name": "Lesotho loti",
+    "symbol": "L",
+    "countries": [
+      {
+        "code": "ls",
+        "name": "Lesotho"
+      }
+    ]
+  },
+  {
+    "code": "LRD",
+    "name": "Liberian dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "lr",
+        "name": "Liberia"
+      }
+    ]
+  },
+  {
+    "code": "LYD",
+    "name": "Libyan dinar",
+    "symbol": "د.ل",
+    "countries": [
+      {
+        "code": "ly",
+        "name": "Libya"
+      }
+    ]
+  },
+  {
+    "code": "CHF",
+    "name": "Swiss franc",
+    "symbol": "CHf",
+    "countries": [
+      {
+        "code": "li",
+        "name": "Liechtenstein"
+      },
+      {
+        "code": "ch",
+        "name": "Switzerland"
+      }
+    ]
+  },
+  {
+    "code": "MOP",
+    "name": "Macanese pataca",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "mo",
+        "name": "Macau S.A.R."
+      }
+    ]
+  },
+  {
+    "code": "MGA",
+    "name": "Malagasy ariary",
+    "symbol": "Ar",
+    "countries": [
+      {
+        "code": "mg",
+        "name": "Madagascar"
+      }
+    ]
+  },
+  {
+    "code": "MWK",
+    "name": "Malawian kwacha",
+    "symbol": "MK",
+    "countries": [
+      {
+        "code": "mw",
+        "name": "Malawi"
+      }
+    ]
+  },
+  {
+    "code": "MYR",
+    "name": "Malaysian ringgit",
+    "symbol": "RM",
+    "countries": [
+      {
+        "code": "my",
+        "name": "Malaysia"
+      }
+    ]
+  },
+  {
+    "code": "MVR",
+    "name": "Maldivian rufiyaa",
+    "symbol": "Rf",
+    "countries": [
+      {
+        "code": "mv",
+        "name": "Maldives"
+      }
+    ]
+  },
+  {
+    "code": "MRU",
+    "name": "Mauritanian ouguiya",
+    "symbol": "UM",
+    "countries": [
+      {
+        "code": "mr",
+        "name": "Mauritania"
+      }
+    ]
+  },
+  {
+    "code": "MUR",
+    "name": "Mauritian rupee",
+    "symbol": "₨",
+    "countries": [
+      {
+        "code": "mu",
+        "name": "Mauritius"
+      }
+    ]
+  },
+  {
+    "code": "MXN",
+    "name": "Mexican peso",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "mx",
+        "name": "Mexico"
+      }
+    ]
+  },
+  {
+    "code": "MDL",
+    "name": "Moldovan leu",
+    "symbol": "L",
+    "countries": [
+      {
+        "code": "md",
+        "name": "Moldova"
+      }
+    ]
+  },
+  {
+    "code": "MNT",
+    "name": "Mongolian tögrög",
+    "symbol": "₮",
+    "countries": [
+      {
+        "code": "mn",
+        "name": "Mongolia"
+      }
+    ]
+  },
+  {
+    "code": "MAD",
+    "name": "Moroccan dirham",
+    "symbol": "DH",
+    "countries": [
+      {
+        "code": "ma",
+        "name": "Morocco"
+      },
+      {
+        "code": "eh",
+        "name": "Western Sahara"
+      }
+    ]
+  },
+  {
+    "code": "MZN",
+    "name": "Mozambican metical",
+    "symbol": "MT",
+    "countries": [
+      {
+        "code": "mz",
+        "name": "Mozambique"
+      }
+    ]
+  },
+  {
+    "code": "MMK",
+    "name": "Burmese kyat",
+    "symbol": "K",
+    "countries": [
+      {
+        "code": "mm",
+        "name": "Myanmar"
+      }
+    ]
+  },
+  {
+    "code": "NAD",
+    "name": "Namibian dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "na",
+        "name": "Namibia"
+      }
+    ]
+  },
+  {
+    "code": "NPR",
+    "name": "Nepalese rupee",
+    "symbol": "₨",
+    "countries": [
+      {
+        "code": "np",
+        "name": "Nepal"
+      }
+    ]
+  },
+  {
+    "code": "NIO",
+    "name": "Nicaraguan córdoba",
+    "symbol": "C$",
+    "countries": [
+      {
+        "code": "ni",
+        "name": "Nicaragua"
+      }
+    ]
+  },
+  {
+    "code": "NGN",
+    "name": "Nigerian naira",
+    "symbol": "₦",
+    "countries": [
+      {
+        "code": "ng",
+        "name": "Nigeria"
+      }
+    ]
+  },
+  {
+    "code": "KPW",
+    "name": "North Korean Won",
+    "symbol": "₩",
+    "countries": [
+      {
+        "code": "kp",
+        "name": "North Korea"
+      }
+    ]
+  },
+  {
+    "code": "MKD",
+    "name": "Denar",
+    "symbol": "ден",
+    "countries": [
+      {
+        "code": "mk",
+        "name": "North Macedonia"
+      }
+    ]
+  },
+  {
+    "code": "OMR",
+    "name": "Omani rial",
+    "symbol": ".ع.ر",
+    "countries": [
+      {
+        "code": "om",
+        "name": "Oman"
+      }
+    ]
+  },
+  {
+    "code": "PKR",
+    "name": "Pakistani rupee",
+    "symbol": "₨",
+    "countries": [
+      {
+        "code": "pk",
+        "name": "Pakistan"
+      }
+    ]
+  },
+  {
+    "code": "PAB",
+    "name": "Panamanian balboa",
+    "symbol": "B/.",
+    "countries": [
+      {
+        "code": "pa",
+        "name": "Panama"
+      }
+    ]
+  },
+  {
+    "code": "PGK",
+    "name": "Papua New Guinean kina",
+    "symbol": "K",
+    "countries": [
+      {
+        "code": "pg",
+        "name": "Papua New Guinea"
+      }
+    ]
+  },
+  {
+    "code": "PYG",
+    "name": "Paraguayan guarani",
+    "symbol": "₲",
+    "countries": [
+      {
+        "code": "py",
+        "name": "Paraguay"
+      }
+    ]
+  },
+  {
+    "code": "PEN",
+    "name": "Peruvian sol",
+    "symbol": "S/.",
+    "countries": [
+      {
+        "code": "pe",
+        "name": "Peru"
+      }
+    ]
+  },
+  {
+    "code": "PHP",
+    "name": "Philippine peso",
+    "symbol": "₱",
+    "countries": [
+      {
+        "code": "ph",
+        "name": "Philippines"
+      }
+    ]
+  },
+  {
+    "code": "PLN",
+    "name": "Polish złoty",
+    "symbol": "zł",
+    "countries": [
+      {
+        "code": "pl",
+        "name": "Poland"
+      }
+    ]
+  },
+  {
+    "code": "QAR",
+    "name": "Qatari riyal",
+    "symbol": "ق.ر",
+    "countries": [
+      {
+        "code": "qa",
+        "name": "Qatar"
+      }
+    ]
+  },
+  {
+    "code": "RON",
+    "name": "Romanian leu",
+    "symbol": "lei",
+    "countries": [
+      {
+        "code": "ro",
+        "name": "Romania"
+      }
+    ]
+  },
+  {
+    "code": "RUB",
+    "name": "Russian ruble",
+    "symbol": "₽",
+    "countries": [
+      {
+        "code": "ru",
+        "name": "Russia"
+      }
+    ]
+  },
+  {
+    "code": "RWF",
+    "name": "Rwandan franc",
+    "symbol": "FRw",
+    "countries": [
+      {
+        "code": "rw",
+        "name": "Rwanda"
+      }
+    ]
+  },
+  {
+    "code": "SHP",
+    "name": "Saint Helena pound",
+    "symbol": "£",
+    "countries": [
+      {
+        "code": "sh",
+        "name": "Saint Helena"
+      }
+    ]
+  },
+  {
+    "code": "WST",
+    "name": "Samoan tālā",
+    "symbol": "SAT",
+    "countries": [
+      {
+        "code": "ws",
+        "name": "Samoa"
+      }
+    ]
+  },
+  {
+    "code": "STN",
+    "name": "Dobra",
+    "symbol": "Db",
+    "countries": [
+      {
+        "code": "st",
+        "name": "Sao Tome and Principe"
+      }
+    ]
+  },
+  {
+    "code": "SAR",
+    "name": "Saudi riyal",
+    "symbol": "﷼",
+    "countries": [
+      {
+        "code": "sa",
+        "name": "Saudi Arabia"
+      }
+    ]
+  },
+  {
+    "code": "RSD",
+    "name": "Serbian dinar",
+    "symbol": "din",
+    "countries": [
+      {
+        "code": "rs",
+        "name": "Serbia"
+      }
+    ]
+  },
+  {
+    "code": "SCR",
+    "name": "Seychellois rupee",
+    "symbol": "SRe",
+    "countries": [
+      {
+        "code": "sc",
+        "name": "Seychelles"
+      }
+    ]
+  },
+  {
+    "code": "SLL",
+    "name": "Sierra Leonean leone",
+    "symbol": "Le",
+    "countries": [
+      {
+        "code": "sl",
+        "name": "Sierra Leone"
+      }
+    ]
+  },
+  {
+    "code": "SGD",
+    "name": "Singapore dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "sg",
+        "name": "Singapore"
+      }
+    ]
+  },
+  {
+    "code": "SBD",
+    "name": "Solomon Islands dollar",
+    "symbol": "Si$",
+    "countries": [
+      {
+        "code": "sb",
+        "name": "Solomon Islands"
+      }
+    ]
+  },
+  {
+    "code": "SOS",
+    "name": "Somali shilling",
+    "symbol": "Sh.so.",
+    "countries": [
+      {
+        "code": "so",
+        "name": "Somalia"
+      }
+    ]
+  },
+  {
+    "code": "ZAR",
+    "name": "South African rand",
+    "symbol": "R",
+    "countries": [
+      {
+        "code": "za",
+        "name": "South Africa"
+      }
+    ]
+  },
+  {
+    "code": "KRW",
+    "name": "Won",
+    "symbol": "₩",
+    "countries": [
+      {
+        "code": "kr",
+        "name": "South Korea"
+      }
+    ]
+  },
+  {
+    "code": "SSP",
+    "name": "South Sudanese pound",
+    "symbol": "£",
+    "countries": [
+      {
+        "code": "ss",
+        "name": "South Sudan"
+      }
+    ]
+  },
+  {
+    "code": "LKR",
+    "name": "Sri Lankan rupee",
+    "symbol": "Rs",
+    "countries": [
+      {
+        "code": "lk",
+        "name": "Sri Lanka"
+      }
+    ]
+  },
+  {
+    "code": "SDG",
+    "name": "Sudanese pound",
+    "symbol": ".س.ج",
+    "countries": [
+      {
+        "code": "sd",
+        "name": "Sudan"
+      }
+    ]
+  },
+  {
+    "code": "SRD",
+    "name": "Surinamese dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "sr",
+        "name": "Suriname"
+      }
+    ]
+  },
+  {
+    "code": "SEK",
+    "name": "Swedish krona",
+    "symbol": "ko",
+    "countries": [
+      {
+        "code": "se",
+        "name": "Sweden"
+      }
+    ]
+  },
+  {
+    "code": "SYP",
+    "name": "Syrian pound",
+    "symbol": "LS",
+    "countries": [
+      {
+        "code": "sy",
+        "name": "Syria"
+      }
+    ]
+  },
+  {
+    "code": "TWD",
+    "name": "New Taiwan dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "tw",
+        "name": "Taiwan"
+      }
+    ]
+  },
+  {
+    "code": "TJS",
+    "name": "Tajikistani somoni",
+    "symbol": "SM",
+    "countries": [
+      {
+        "code": "tj",
+        "name": "Tajikistan"
+      }
+    ]
+  },
+  {
+    "code": "TZS",
+    "name": "Tanzanian shilling",
+    "symbol": "TSh",
+    "countries": [
+      {
+        "code": "tz",
+        "name": "Tanzania"
+      }
+    ]
+  },
+  {
+    "code": "THB",
+    "name": "Thai baht",
+    "symbol": "฿",
+    "countries": [
+      {
+        "code": "th",
+        "name": "Thailand"
+      }
+    ]
+  },
+  {
+    "code": "BSD",
+    "name": "Bahamian dollar",
+    "symbol": "B$",
+    "countries": [
+      {
+        "code": "bs",
+        "name": "The Bahamas"
+      }
+    ]
+  },
+  {
+    "code": "GMD",
+    "name": "Gambian dalasi",
+    "symbol": "D",
+    "countries": [
+      {
+        "code": "gm",
+        "name": "The Gambia "
+      }
+    ]
+  },
+  {
+    "code": "TOP",
+    "name": "Tongan paʻanga",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "to",
+        "name": "Tonga"
+      }
+    ]
+  },
+  {
+    "code": "TTD",
+    "name": "Trinidad and Tobago dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "tt",
+        "name": "Trinidad and Tobago"
+      }
+    ]
+  },
+  {
+    "code": "TND",
+    "name": "Tunisian dinar",
+    "symbol": "ت.د",
+    "countries": [
+      {
+        "code": "tn",
+        "name": "Tunisia"
+      }
+    ]
+  },
+  {
+    "code": "TRY",
+    "name": "Turkish lira",
+    "symbol": "₺",
+    "countries": [
+      {
+        "code": "tr",
+        "name": "Turkey"
+      }
+    ]
+  },
+  {
+    "code": "TMT",
+    "name": "Turkmenistan manat",
+    "symbol": "T",
+    "countries": [
+      {
+        "code": "tm",
+        "name": "Turkmenistan"
+      }
+    ]
+  },
+  {
+    "code": "UGX",
+    "name": "Ugandan shilling",
+    "symbol": "USh",
+    "countries": [
+      {
+        "code": "ug",
+        "name": "Uganda"
+      }
+    ]
+  },
+  {
+    "code": "UAH",
+    "name": "Ukrainian hryvnia",
+    "symbol": "₴",
+    "countries": [
+      {
+        "code": "ua",
+        "name": "Ukraine"
+      }
+    ]
+  },
+  {
+    "code": "AED",
+    "name": "United Arab Emirates dirham",
+    "symbol": "إ.د",
+    "countries": [
+      {
+        "code": "ae",
+        "name": "United Arab Emirates"
+      }
+    ]
+  },
+  {
+    "code": "UYU",
+    "name": "Uruguayan peso",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "uy",
+        "name": "Uruguay"
+      }
+    ]
+  },
+  {
+    "code": "UZS",
+    "name": "Uzbekistani soʻm",
+    "symbol": "лв",
+    "countries": [
+      {
+        "code": "uz",
+        "name": "Uzbekistan"
+      }
+    ]
+  },
+  {
+    "code": "VUV",
+    "name": "Vanuatu vatu",
+    "symbol": "VT",
+    "countries": [
+      {
+        "code": "vu",
+        "name": "Vanuatu"
+      }
+    ]
+  },
+  {
+    "code": "VES",
+    "name": "Bolívar",
+    "symbol": "Bs",
+    "countries": [
+      {
+        "code": "ve",
+        "name": "Venezuela"
+      }
+    ]
+  },
+  {
+    "code": "VND",
+    "name": "Vietnamese đồng",
+    "symbol": "₫",
+    "countries": [
+      {
+        "code": "vn",
+        "name": "Vietnam"
+      }
+    ]
+  },
+  {
+    "code": "YER",
+    "name": "Yemeni rial",
+    "symbol": "﷼",
+    "countries": [
+      {
+        "code": "ye",
+        "name": "Yemen"
+      }
+    ]
+  },
+  {
+    "code": "ZMW",
+    "name": "Zambian kwacha",
+    "symbol": "ZK",
+    "countries": [
+      {
+        "code": "zm",
+        "name": "Zambia"
+      }
+    ]
+  },
+  {
+    "code": "ZWL",
+    "name": "Zimbabwe Dollar",
+    "symbol": "$",
+    "countries": [
+      {
+        "code": "zw",
+        "name": "Zimbabwe"
+      }
+    ]
+  }
+]
